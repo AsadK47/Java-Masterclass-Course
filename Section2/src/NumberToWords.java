@@ -5,10 +5,12 @@ import java.util.Map;
 
 public class NumberToWords {
     public static void main(String[] args) {
-        numberToWords(101);
+        numberToWords(100);
     }
 
     public static void numberToWords(int number) {
+        int remainder;
+        StringBuilder numberSequence = new StringBuilder();
         Map<Integer, String> numbers = new HashMap<>();
         numbers.put(0, "Zero");
         numbers.put(1, "One");
@@ -23,19 +25,26 @@ public class NumberToWords {
 
         if (number < 0) {
             System.out.println("Invalid Value");
+            return;
+        } else if (number == 0) {
+            numberSequence.append("Zero");
         }
 
-        int reversedNumber = reverse(number);
+        int reverseNum = reverse(number);
+        int numCount = getDigitCount(number);
+        int reverseCount = getDigitCount(reverseNum);
 
-//        for (int i = 0; i < )
-
-        int remainder;
-        StringBuilder numberSequence = new StringBuilder();
-
-        for (int i = 0; i < reversedNumber; i++) {
-            remainder = reversedNumber % 10;
+        while (reverseNum != 0) {
+            remainder = reverseNum % 10;
+            assert false;
             numberSequence.append(numbers.get(remainder)).append(" ");
-            reversedNumber /= 10;
+            reverseNum /= 10;
+        }
+
+        if (numCount != reverseCount) {
+            for (int i = reverseCount; i < numCount; i++) {
+                numberSequence.append("Zero ");
+            }
         }
 
         System.out.println(numberSequence);
@@ -59,6 +68,8 @@ public class NumberToWords {
 
         if (num < 0) {
             return -1;
+        } else if (num == 0) {
+            return 1;
         }
 
         while (num != 0) {
