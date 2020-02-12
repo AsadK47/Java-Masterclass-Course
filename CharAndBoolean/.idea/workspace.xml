@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="08687adb-7a11-4f6e-9b20-c4cfa783b713" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W4qP1lhzt69YFBTiLaPX1Yxdn8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager" selected="Application.PlayingCat">
+    <configuration name="AreaCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AreaCalculator" />
+      <module name="CharAndBoolean" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EqualityPrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EqualityPrinter" />
+      <module name="CharAndBoolean" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MegaBytesConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MegaBytesConverter" />
+      <module name="CharAndBoolean" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinutesToYearsAndDaysCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MinutesToYearsAndDaysCalculator" />
+      <module name="CharAndBoolean" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlayingCat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PlayingCat" />
+      <module name="CharAndBoolean" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PlayingCat" />
+        <item itemvalue="Application.MegaBytesConverter" />
+        <item itemvalue="Application.EqualityPrinter" />
+        <item itemvalue="Application.MinutesToYearsAndDaysCalculator" />
+        <item itemvalue="Application.AreaCalculator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08687adb-7a11-4f6e-9b20-c4cfa783b713" name="Default Changelist" comment="" />
+      <created>1578419186932</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578419186932</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1078" y="250" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1578932328182">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="1078" y="250" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1578932328182" />
+    <state width="532" height="284" key="GridCell.Tab.0.bottom" timestamp="1579543595458">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="532" height="284" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1579543595458" />
+    <state width="640" height="271" key="GridCell.Tab.0.bottom/0.23.1680.963@0.23.1680.963" timestamp="1578506324511" />
+    <state width="532" height="284" key="GridCell.Tab.0.center" timestamp="1579543595457">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="532" height="284" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1579543595457" />
+    <state width="640" height="271" key="GridCell.Tab.0.center/0.23.1680.963@0.23.1680.963" timestamp="1578506324510" />
+    <state width="532" height="284" key="GridCell.Tab.0.left" timestamp="1579543595457">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="532" height="284" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1579543595457" />
+    <state width="640" height="271" key="GridCell.Tab.0.left/0.23.1680.963@0.23.1680.963" timestamp="1578506324509" />
+    <state width="532" height="284" key="GridCell.Tab.0.right" timestamp="1579543595458">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="532" height="284" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1579543595458" />
+    <state width="640" height="271" key="GridCell.Tab.0.right/0.23.1680.963@0.23.1680.963" timestamp="1578506324510" />
+    <state width="745" height="343" key="GridCell.Tab.1.bottom" timestamp="1579114762296">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="745" height="343" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1579114762296" />
+    <state width="745" height="343" key="GridCell.Tab.1.center" timestamp="1579114762295">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="745" height="343" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1579114762295" />
+    <state width="745" height="343" key="GridCell.Tab.1.left" timestamp="1579114762295">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="745" height="343" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1579114762295" />
+    <state width="745" height="343" key="GridCell.Tab.1.right" timestamp="1579114762295">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="745" height="343" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1579114762295" />
+    <state x="468" y="182" key="new project wizard" timestamp="1579543591302">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="468" y="182" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1579543591302" />
+    <state x="997" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1578667303850">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="997" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1578667303850" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TeenNumberChecker.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TeenNumberChecker.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TeenNumberChecker.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TeenNumberChecker.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TeenNumberChecker.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TeenNumberChecker.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(èôüÿÿÿÿ8ò‰‰ø-
+Vsquid:S1481"8Remove this unused "myFalseBooleanValue" local variable.(Ñ‚•Á8´—‰ø-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ûÁÈ¯8­‰ø-
+Zsquid:S1481"<Remove this unused "isCustomerOverTwentyOne" local variable.(ÜÜïû8©°™‰ø-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Â”İÓşÿÿÿÿ8¾Ÿ‰ø-
+Usquid:S1481
+"7Remove this unused "myTrueBooleanValue" local variable.(ØÒûõ8ÈÃ–‰ø-

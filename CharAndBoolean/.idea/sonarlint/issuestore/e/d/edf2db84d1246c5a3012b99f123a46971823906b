@@ -1,0 +1,11 @@
+
+[
+squid:S106	"9Replace this use of System.out or System.err by a logger.(Ãƒ°óşÿÿÿÿ8ÓÒÒ©ú-
+_squid:S2184"ACast one of the operands of this division operation to a "float".(›Ï° 8âüµ¤ú-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ãƒ°óşÿÿÿÿ8ÓÒÒ©ú-
+dsquid:S2184"ACast one of the operands of this division operation to a "float".(ŠÓùÿÿÿÿÿ8ÆÆ£ú-
+Isquid:S2185"&Remove this silly call to "Math.round"(ŠÓùÿÿÿÿÿ8ÆÆ£ú-
+Dsquid:S2185"&Remove this silly call to "Math.round"(›Ï° 8âüµ¤ú-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(äÄ¢Êøÿÿÿÿ8ÓÒÒ©ú-

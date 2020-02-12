@@ -1,0 +1,13 @@
+
+[
+squid:S106	"9Replace this use of System.out or System.err by a logger.(¬ªí£ùÿÿÿÿ8ÑÖÂ¬ø-
+Rsquid:S1481
+"4Remove this unused "anotherVariable" local variable.(×Ôœ8ÉªÑ¬ø-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÇÒüäÿÿÿÿÿ8ÉªÑ¬ø-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Èº÷Ä8—ú©¬ø-
+asquid:S1854
+"CRemove this useless assignment to local variable "anotherVariable".(×Ôœ8ÉªÑ¬ø-
+Msquid:S1481"/Remove this unused "myVariable" local variable.(Þ²äÏ8•¦¬ø-
+[squid:S1854">Remove this useless assignment to local variable "myVariable".(‰î A8¯‹©¬ø-
