@@ -37,3 +37,7 @@ F
 src/PerfectNumber.java,c/0/c067c8925359d14434ce40e923d9931f92d40c50
 F
 src/NumberToWords.java,c/4/c45900d809e2ea96f49326c4c63584fadfdf8424
+Q
+!src/ParsingValuesFromStrings.java,5/a/5a43b73cbdcd00b3d28c6ec2cdec3ca32560ee91
+I
+src/FlourPackProblem.java,f/5/f5fe1814434a3466282cae8fc27b7b656e3c44d3

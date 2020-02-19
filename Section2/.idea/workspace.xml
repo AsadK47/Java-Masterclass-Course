@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b036cf5d-5da4-4512-b1de-f2b8a8dd284c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/4/c45900d809e2ea96f49326c4c63584fadfdf8424" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/4/c45900d809e2ea96f49326c4c63584fadfdf8424" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NumberToWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NumberToWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Section2/NumberToWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Section2/NumberToWords.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +37,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.NumberToWords">
+  <component name="RunManager" selected="Application.FlourPackProblem">
     <configuration name="AllFactors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AllFactors" />
       <module name="Section2" />
@@ -48,8 +45,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LastDigitChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LastDigitChecker" />
+    <configuration name="FlourPackProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FlourPackProblem" />
       <module name="Section2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -62,6 +59,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ParsingValuesFromStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ParsingValuesFromStrings" />
+      <module name="Section2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PerfectNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PerfectNumber" />
       <module name="Section2" />
@@ -69,20 +73,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SharedDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SharedDigit" />
-      <module name="Section2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FlourPackProblem" />
+        <item itemvalue="Application.ParsingValuesFromStrings" />
         <item itemvalue="Application.NumberToWords" />
         <item itemvalue="Application.PerfectNumber" />
         <item itemvalue="Application.AllFactors" />
-        <item itemvalue="Application.LastDigitChecker" />
-        <item itemvalue="Application.SharedDigit" />
       </list>
     </recent_temporary>
   </component>
@@ -120,42 +117,46 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="528" y="268" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1580237869031" />
-    <state x="1144" y="235" key="#xdebugger.evaluate" timestamp="1581528169131">
+    <state x="1144" y="235" key="#xdebugger.evaluate" timestamp="1582131735648">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="1144" y="235" key="#xdebugger.evaluate/0.0.1680.1050@0.0.1680.1050" timestamp="1581528169131" />
-    <state width="535" height="301" key="GridCell.Tab.0.bottom" timestamp="1581529797823">
+    <state x="1144" y="235" key="#xdebugger.evaluate/0.0.1680.1050@0.0.1680.1050" timestamp="1582131735648" />
+    <state x="947" y="127" key="CommitChangelistDialog2" timestamp="1581529845166">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="535" height="301" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1581529797823" />
-    <state width="535" height="301" key="GridCell.Tab.0.center" timestamp="1581529797821">
+    <state x="947" y="127" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1581529845166" />
+    <state width="596" height="334" key="GridCell.Tab.0.bottom" timestamp="1582132588097">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="535" height="301" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1581529797821" />
-    <state width="535" height="301" key="GridCell.Tab.0.left" timestamp="1581529797820">
+    <state width="596" height="334" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1582132588097" />
+    <state width="596" height="334" key="GridCell.Tab.0.center" timestamp="1582132588094">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="535" height="301" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1581529797820" />
-    <state width="535" height="301" key="GridCell.Tab.0.right" timestamp="1581529797823">
+    <state width="596" height="334" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1582132588094" />
+    <state width="596" height="334" key="GridCell.Tab.0.left" timestamp="1582132588093">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="535" height="301" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1581529797823" />
-    <state width="535" height="334" key="GridCell.Tab.1.bottom" timestamp="1581528474224">
+    <state width="596" height="334" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1582132588093" />
+    <state width="596" height="334" key="GridCell.Tab.0.right" timestamp="1582132588096">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="535" height="334" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1581528474224" />
-    <state width="535" height="334" key="GridCell.Tab.1.center" timestamp="1581528474222">
+    <state width="596" height="334" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1582132588096" />
+    <state width="596" height="334" key="GridCell.Tab.1.bottom" timestamp="1582132588101">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="535" height="334" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1581528474222" />
-    <state width="535" height="334" key="GridCell.Tab.1.left" timestamp="1581528474221">
+    <state width="596" height="334" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1582132588101" />
+    <state width="596" height="334" key="GridCell.Tab.1.center" timestamp="1582132588099">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="535" height="334" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1581528474221" />
-    <state width="535" height="334" key="GridCell.Tab.1.right" timestamp="1581528474223">
+    <state width="596" height="334" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1582132588099" />
+    <state width="596" height="334" key="GridCell.Tab.1.left" timestamp="1582132588098">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="535" height="334" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1581528474223" />
+    <state width="596" height="334" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1582132588098" />
+    <state width="596" height="334" key="GridCell.Tab.1.right" timestamp="1582132588100">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="596" height="334" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1582132588100" />
     <state x="656" y="106" key="SettingsEditor" timestamp="1579543812132">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -193,6 +194,16 @@
           <url>file://$PROJECT_DIR$/src/LastDigitChecker.java</url>
           <line>15</line>
           <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="26" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
