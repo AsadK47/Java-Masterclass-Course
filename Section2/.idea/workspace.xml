@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b036cf5d-5da4-4512-b1de-f2b8a8dd284c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Section2/FlourPackProblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Section2/FlourPackProblem.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +22,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1WfbgwIvl1TPclONk2i7PM3JA6h" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -36,16 +40,16 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.FlourPackProblem">
-    <configuration name="AllFactors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AllFactors" />
+  <component name="RunManager" selected="Application.LargestPrime">
+    <configuration name="FlourPackProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FlourPackProblem" />
       <module name="Section2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlourPackProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FlourPackProblem" />
+    <configuration name="LargestPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LargestPrime" />
       <module name="Section2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LargestPrime" />
         <item itemvalue="Application.FlourPackProblem" />
         <item itemvalue="Application.ParsingValuesFromStrings" />
         <item itemvalue="Application.NumberToWords" />
         <item itemvalue="Application.PerfectNumber" />
-        <item itemvalue="Application.AllFactors" />
       </list>
     </recent_temporary>
   </component>
@@ -124,38 +128,46 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="947" y="127" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1581529845166" />
-    <state width="596" height="334" key="GridCell.Tab.0.bottom" timestamp="1582133046545">
+    <state width="460" height="301" key="GridCell.Tab.0.bottom" timestamp="1582219608972">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="596" height="334" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1582133046545" />
-    <state width="596" height="334" key="GridCell.Tab.0.center" timestamp="1582133046543">
+    <state width="460" height="301" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1582219608972" />
+    <state width="460" height="334" key="GridCell.Tab.0.bottom/0.23.1680.963@0.23.1680.963" timestamp="1582200859053" />
+    <state width="460" height="301" key="GridCell.Tab.0.center" timestamp="1582219608971">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="596" height="334" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1582133046543" />
-    <state width="596" height="334" key="GridCell.Tab.0.left" timestamp="1582133046542">
+    <state width="460" height="301" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1582219608971" />
+    <state width="460" height="334" key="GridCell.Tab.0.center/0.23.1680.963@0.23.1680.963" timestamp="1582200859051" />
+    <state width="460" height="301" key="GridCell.Tab.0.left" timestamp="1582219608970">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="596" height="334" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1582133046542" />
-    <state width="596" height="334" key="GridCell.Tab.0.right" timestamp="1582133046544">
+    <state width="460" height="301" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1582219608970" />
+    <state width="460" height="334" key="GridCell.Tab.0.left/0.23.1680.963@0.23.1680.963" timestamp="1582200859050" />
+    <state width="460" height="301" key="GridCell.Tab.0.right" timestamp="1582219608971">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="596" height="334" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1582133046544" />
-    <state width="596" height="334" key="GridCell.Tab.1.bottom" timestamp="1582133046547">
+    <state width="460" height="301" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1582219608971" />
+    <state width="460" height="334" key="GridCell.Tab.0.right/0.23.1680.963@0.23.1680.963" timestamp="1582200859052" />
+    <state width="1638" height="334" key="GridCell.Tab.1.bottom" timestamp="1582219608965">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="596" height="334" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1582133046547" />
-    <state width="596" height="334" key="GridCell.Tab.1.center" timestamp="1582133046546">
+    <state width="1638" height="334" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1582219608965" />
+    <state width="460" height="334" key="GridCell.Tab.1.bottom/0.23.1680.963@0.23.1680.963" timestamp="1582200859182" />
+    <state width="1638" height="334" key="GridCell.Tab.1.center" timestamp="1582219608963">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="596" height="334" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1582133046546" />
-    <state width="596" height="334" key="GridCell.Tab.1.left" timestamp="1582133046545">
+    <state width="1638" height="334" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1582219608963" />
+    <state width="460" height="334" key="GridCell.Tab.1.center/0.23.1680.963@0.23.1680.963" timestamp="1582200859180" />
+    <state width="1638" height="334" key="GridCell.Tab.1.left" timestamp="1582219608957">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="596" height="334" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1582133046545" />
-    <state width="596" height="334" key="GridCell.Tab.1.right" timestamp="1582133046547">
+    <state width="1638" height="334" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1582219608957" />
+    <state width="460" height="334" key="GridCell.Tab.1.left/0.23.1680.963@0.23.1680.963" timestamp="1582200859179" />
+    <state width="1638" height="334" key="GridCell.Tab.1.right" timestamp="1582219608964">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="596" height="334" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1582133046547" />
+    <state width="1638" height="334" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1582219608964" />
+    <state width="460" height="334" key="GridCell.Tab.1.right/0.23.1680.963@0.23.1680.963" timestamp="1582200859181" />
     <state x="656" y="106" key="SettingsEditor" timestamp="1582196379913">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -207,6 +219,16 @@
           <url>file://$PROJECT_DIR$/src/FlourPackProblem.java</url>
           <line>16</line>
           <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LargestPrime.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LargestPrime.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="30" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
