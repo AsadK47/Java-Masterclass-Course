@@ -26,9 +26,11 @@ public class Test {
         int int1 = 5;
         int int2 = 50000000000;
 
-        float float1 = 12.5;
+        long long1 = 1233L;
 
-        double double1 = 12.5;
+        float float1 = 12.5F;
+
+        double double1 = 12.566637228;
 
         double i = Math.PI;
 
@@ -65,9 +67,9 @@ public class Test {
         // Section 5 - Mini test on literal flavour type (Luckily the IDE does the work)
         long var1 = 0_100_267_760;
         long var2 = 0_ x_4_13;
-        long var3 = 0b_ x10_BA_75;
+        long var3 = 0bx10_BA_75;
         long var4 = 0b_10000_10_11;
-        long var5 = 0xa10_A G_75;
+        long var5 = 0xa10_AG_75;
         long var6 = 0x1_0000_10;
         long var7 = 100__12_12;
 
@@ -141,6 +143,8 @@ public class Test {
          * a %= b is equal to a = a % b
          */
 
+        Math.ceil(1.6666);
+
         // **************************************************************************************************************
 
         // Section 11 - Unary Increment and Decrement Operators
@@ -165,10 +169,13 @@ public class Test {
 
         int a = 10;
         int b = 20;
-        System.out.println(a > 20 && b > 10); // false
-        System.out.println(a > 20 || b > 10); // true
-        System.out.println(! (b > 10)); // false
-        System.out.println(! (a > 20)); // true
+        System.out.println(a > 20 && b > 10); // false && true = false
+
+        System.out.println(a > 20 || b > 10); // false && true = true
+
+        System.out.println(! (b > 10)); // !true = false
+
+        System.out.println(! (a > 20)); // !false = true
 
         // **************************************************************************************************************
 
@@ -182,10 +189,20 @@ public class Test {
          * ■ Static methods—By calling static method of wrapper classes, like, valueOf()
          */
 
+
+        Integer integer = 5;
+        int int7 = 5;
+        Integer.valueOf(int7);
+
+
+
         Long.parseLong("12.34");
         Byte.parseByte("1234");
         Boolean.parseBoolean("true");
         Boolean.parseBoolean("TrUe");
+        Boolean.parseBoolean("fffff");
+
+        Long l = new Long(4);
 
         /**
          * Autoboxing and unboxing
